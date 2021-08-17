@@ -1,4 +1,4 @@
-# vuex-todo-app
+# rivulet-test
 
 ## Project setup
 ```
